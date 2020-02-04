@@ -1,0 +1,9 @@
+<script type="text/javascript">
+  {% if template == 'thankyou' %}
+    var et_target = "Bestellung";
+    var et_tval = "{{ cart.total_price }}";
+    var et_tonr = "{{ cart.order_code }}";
+    var et_tsale = 1;
+  {% endif %}
+  </script>
+  <script id="_etLoader" type="text/javascript" charset="UTF-8" data-secure-code="{{ integration['ETRACKER_ID'] }}" src="//static.etracker.com/code/e.js"></script>

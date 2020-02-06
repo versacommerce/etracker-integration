@@ -1,5 +1,5 @@
-[<img src="versacommerce.png" width="200px" height="50px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="etracker.png" width="120px" height="120px" align="right" alt="etracker.com">](https://www.etracker.com/?utm_source=www.versacommerce.de)
+[<img src="versacommerce.png" width="250px" height="70px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
+[<img src="etracker-logo.png" width="200px" height="175px" align="right" alt="etracker.com">](https://www.etracker.com/?utm_source=www.versacommerce.de)
 
 # etracker Integration for VersaCommerce
 
